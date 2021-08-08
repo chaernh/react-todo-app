@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "title": "CSS or SASS?",
-      "done": false,
-      "id": 8
-    },
-    {
       "title": "Learn react one more",
       "done": false,
       "id": 9
